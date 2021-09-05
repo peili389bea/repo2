@@ -1,0 +1,8 @@
+技术应用核心
+1、git
+2、ant加载xml文件一键打包
+3、weblogic
+4、oracle
+
+
+
